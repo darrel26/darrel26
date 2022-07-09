@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Darrel 
-- 👀 I’m interested in frontend web development 
-- 🌱 I’m currently learning react and software testing  
+- 👋 Hi, I’m Darrel
 
 <!---
 darrel26/darrel26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
